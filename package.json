@@ -1,0 +1,28 @@
+{
+  "name": "typescript_professional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaikiWakabayashi/Typescript_Professional.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaikiWakabayashi/Typescript_Professional/issues"
+  },
+  "homepage": "https://github.com/TaikiWakabayashi/Typescript_Professional#readme",
+  "devDependencies": {
+    "@types/node": "^18.8.2",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "jsdoc": "^4.0.0"
+  }
+}
